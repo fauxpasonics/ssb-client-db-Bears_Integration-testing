@@ -1,0 +1,3 @@
+CREATE SCHEMA [apietl]
+AUTHORIZATION [db_apiETL]
+GO
